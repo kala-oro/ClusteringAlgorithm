@@ -6,4 +6,5 @@ Drawn a three-dimensional scatters of a person in space and time and cluster the
 <p>The code is tested against Python 3.6.
 <p>
 ![Cluster in 3d using DBSCAN](./imag/1.png "Cluster in 3d using DBSCAN")
+<p>
 ![Filter datas during sleeping time and Cluster in 3d using KMeans](./imag/2.png "Filter datas during sleeping time and Cluster in 3d using KMeans")
