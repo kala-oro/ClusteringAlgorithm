@@ -3,7 +3,7 @@
 Completed on Thu Dec 19 18:44:40 2018
 Workdir = F:\jTKount\1215 Work_Travel_company_tem[
 Filename = Cluster3d.py
-Describe: Cluster the 2D space with timline in 3D；
+Describe: Cluster the 2D space with timline in 3D
           Using KMeans/DBSCAN/GMM/AP refer to sklearn
           Consider the outlier detection
 @author: OrenLi1042420545
